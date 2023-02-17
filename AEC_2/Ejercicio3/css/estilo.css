@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* Documento CSS */
+body {
+    background-color:#F2F2F2;
+    color: #0D0D0D;
+    font-family:Verdana, Geneva, sans-serif;
+}
+h1 {
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    color:#050505;
+    background-color:#049DBF;
+    text-align:center;
+}
+h2{
+    color:#048ABF;
+    background-color:#0D0D0D;
+    text-align:center;
+}
+
+.izquierda{
+    float:left;
+}
+.derecha{
+    float:right;
+}

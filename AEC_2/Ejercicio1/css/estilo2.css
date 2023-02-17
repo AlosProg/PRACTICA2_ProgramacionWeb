@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* Documento CSS */
+body {
+/*056CF2,0F88F2,52B5F2,85D3F2,F2F2F2 */
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:20px;
+    background-color: #2e2525;
+    color: #056CF2;
+}
+h1 {
+    font-family:"Arial Black", Gadget, sans-serif;
+    color:#f2b252;
+    text-align:center;
+}
+
+article {
+    width:300px;
+}
+nav {
+    text-align:center;
+    background-color:blue;
+    height:20px;
+    padding:5px;
+}
+section{
+    background-color:#f2b252;
+}
+p{
+    background-color:aqua;
+}
